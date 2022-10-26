@@ -1,0 +1,80 @@
+#med{
+    font-weight: 700;
+}
+#phone{
+    font-size: 50px;
+}
+
+
+
+#service{
+    font-weight: 800;
+}
+#serv{
+    color: rgb(245, 12, 63);
+}
+#mobiledev{
+    font-size: xx-large;
+}
+#us{
+    color:  rgb(245, 12, 63);
+}
+#lls{
+    color:  rgb(245, 12, 63);
+}
+#ked{
+    color:  rgb(245, 12, 63);
+}
+#abus{
+    font-weight: 800;
+}
+#skill{
+    font-weight: 800;
+}
+#fq{
+    font-weight: 800;
+}
+#img-home{
+    transition: 0.5s;
+    cursor: pointer;
+}
+#img-home:hover{
+    transform: scale(1.2);
+}
+#social{
+    margin-top: 3.5rem;
+}
+#social img{
+    margin-right: 2rem;
+    width: 2.5rem;
+    transition: 0.4s;
+}
+#social img:hover{
+    transform: scale(1.2);
+
+}
+#logo{
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+#log-2{
+    color:  rgb(245, 12, 63);
+}
+#aidi-home{
+    color:  rgb(245, 12, 63);
+}
+#menu:hover{
+    color:  rgb(245, 12, 63);
+    
+}
+
+#get-txt{
+    color: black;
+    font-weight: 550;
+}
+#get-st{
+    color:  rgb(245, 12, 63);
+
+}
+
